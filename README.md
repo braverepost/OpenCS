@@ -28,6 +28,7 @@ This project is ideal for:
 - Modular PHP file structure
 - Custom CSS styling
 - MySQL database integration
+- Cloudflare Turnstile integration
 
 ---
 
